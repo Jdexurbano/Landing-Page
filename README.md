@@ -1,2 +1,2 @@
 # Landing-Page
- A sample landing page built in html and css
+ A simple sample of landing page built in html and css
